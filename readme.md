@@ -20,7 +20,7 @@ hashpwd mypassword
 Нужен Go 1.18+. / Requires Go 1.18+.
 
 ```bash
-git clone https://github.com/yourname/hashpwd
+git clone https://github.com/anxi0uz/hashpwd
 cd hashpwd
 go build -o hashpwd main.go
 ```
