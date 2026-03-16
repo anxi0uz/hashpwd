@@ -1,8 +1,8 @@
 # hashpwd
 
-Простая CLI-утилита для хэширования паролей через bcrypt. Принимает строку, возвращает чистый хэш без спецсимволов.
+Простая CLI-утилита для генерации паролей через bcrypt. Принимает строку, возвращает чистый хэш без спецсимволов.
 
-A simple CLI tool for hashing passwords via bcrypt. Takes a string, returns a clean hash without special characters.
+A simple CLI tool for generating passwords via bcrypt. Takes a string, returns a clean hash without special characters.
 
 ---
 
